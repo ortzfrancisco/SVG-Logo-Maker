@@ -14,15 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elizabetholsavsky/SVG-logo-maker.git"
+    "url":
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/elizabetholsavsky/SVG-logo-maker/issues"
+    "url": 
   },
-  "homepage": "https://github.com/elizabetholsavsky/SVG-logo-maker#readme",
+  "homepage": 
   "dependencies": {
     "inquirer": "^8.2.4"
   },
