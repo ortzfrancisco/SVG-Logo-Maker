@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 {
   "name": "svg-logo-maker",
   "version": "1.0.0",
@@ -21,8 +22,8 @@
   "bugs": {
     "url": 
   },
-  "homepage": 
-  "dependencies" {
+  "homepage": "https://github.com/elizabetholsavsky/SVG-logo-maker#readme",
+  "dependencies": {
     "inquirer": "^8.2.4"
   },
   "devDependencies": {
