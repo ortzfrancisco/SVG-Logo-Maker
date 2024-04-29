@@ -1,5 +1,4 @@
 
-<<<<<<< HEAD
 {
   "name": "svg-logo-maker",
   "version": "1.0.0",
@@ -14,21 +13,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elizabetholsavsky/SVG-logo-maker.git"
+    "url":
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/elizabetholsavsky/SVG-logo-maker/issues"
+    "url": 
   },
-  "homepage": "https://github.com/elizabetholsavsky/SVG-logo-maker#readme",
-  "dependencies": {
+  "homepage": 
+  "dependencies" {
     "inquirer": "^8.2.4"
   },
   "devDependencies": {
     "jest": "^29.5.0"
   }
 }
-=======
+
 
